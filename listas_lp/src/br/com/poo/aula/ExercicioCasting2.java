@@ -9,14 +9,17 @@ public class ExercicioCasting2 {
 
 	public static void main(String[] args) {
 		
-		char A;
-		char B;
-		int soma;
+		char letra1 = 'A';
+		char letra2 = 'Z';
+		int soma; 			/*= letra1 + letra2;*/
 		
-		soma = (int)A + (int)B;
+		int x = letra1;
+		int y = letra2;
 		
-		System.out.print("Soma: "+soma);
-
+		soma = x + y;
+		
+		System.out.print("Soma: "+soma+ "\nvalor de A é "+x+" valor de Z é "+y);
+		
 	}
 
 }

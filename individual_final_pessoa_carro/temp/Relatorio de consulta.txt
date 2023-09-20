@@ -1,0 +1,7 @@
+*************** Relatório **************
+Hyundai HB20:
+
+ - Esse é o proprietário do veículo: Bernardo
+
+Data da programação: 20/09/2023 01:09:36
+************* Fim Relatório ************

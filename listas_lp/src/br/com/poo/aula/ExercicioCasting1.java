@@ -8,16 +8,16 @@ package br.com.poo.aula;
 
 public class ExercicioCasting1 {
 
-	public static void main(String() args) {
+	public static void main(String[] args) {
 		
-		int n1; n2;
+		int n1, n2;
 		int soma;
-		Double divisão;
+		double divisao;
 		
 		n1 = 25;
 		n2 = 5;
 		soma = n1 + n2;
-		divisao = (double)n1 / (double)n2;
+		divisao = (double)n1 / (double)n2; //ou divisao = ((double)n1/n2);
 		
 		System.out.print("Soma: "+soma);
 		System.out.println();

@@ -1,0 +1,8 @@
+Carro;1;Hyundai HB20;
+Carro;2;Chevrolet Cruze;
+Carro;3;Ford EcoSport;
+Carro;4;Fiat 500;
+Pessoa;1;Bernardo;1;
+Pessoa;2;Andre;2;
+Pessoa;3;Simone;3;
+Pessoa;4;Beatriz;4;
